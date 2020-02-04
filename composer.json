@@ -1,0 +1,16 @@
+{
+    "name": "softmetrix/php-proc-list",
+    "description": "Manage operating system processes from PHP script.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marko Medojevic",
+            "email": "mmedojevicbg@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Softmetrix\\PHPProcList\\": "" }
+    },
+    "require": {}
+}
